@@ -1,3 +1,4 @@
+//datatype.kt
 fun main() {
     var num : Int = -5 //Int
     var mynumber : Float = 56.7F //Float
